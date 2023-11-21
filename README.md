@@ -149,9 +149,10 @@ Pirate Captain
 - "🏴‍☠️️" (Statement indicator)
 - "LeftBow" (Left second bracket)
 - "RightBow" (Right second bracket)
-```
 
-Feel free to use this modified documentation in your PirateScript language project!
+
+Feel free to use this documentation to create a PirateScript! Yo-ho...
+
 
 
 
