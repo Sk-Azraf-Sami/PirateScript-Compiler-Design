@@ -1,7 +1,7 @@
-<img align="right" alt="coding" width="400" src="https://github.com/Sk-Azraf-Sami/PirateScript-Compiler-Design/blob/main/PirateScriptLogo.png">
 
 # PirateScript-Compiler-Design
 
+<img align="right" alt="coding" width="400" src="https://github.com/Sk-Azraf-Sami/PirateScript-Compiler-Design/blob/main/PirateScriptLogo.png">
 
 **Introduction to PirateScript:** A Programming Language with a Swashbuckling Twist
 Ahoy, ye scallywags and code enthusiasts! Welcome to the high seas of programming with PirateScript, a language as adventurous and cunning as a pirate on the hunt for buried treasure. PirateScript be more than just a set of code rules; it's a linguistic journey through the seven seas of syntax and semantics, where every line of code tells a tale of daring escapades and nautical exploits.
