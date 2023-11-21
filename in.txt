@@ -1,0 +1,76 @@
+captain main LeftCannon  RightCannon 
+LeftBow
+	JackSparrow_i  pirate_var yo_ho  pirate_name yo_ho pirate_count yo_ho pirate_count yo_ho pirate_name 🏴‍☠️️
+	pirate_var loot 8 🏴‍☠️️
+	pirate_name loot 4 🏴‍☠️️
+	pirate_test loot 8 🏴‍☠️️
+	⚓️++ 115 ⚓️++ 🏴‍☠️️
+	⚓️-- 100 ⚓️-- 🏴‍☠️️
+	!⚓️ 1 !⚓️ 🏴‍☠️️
+	1 booty 12 gold 4 gun 4 🏴‍☠️️
+	18 mutiny 15 booty 8 gold 2 gun 5 🏴‍☠️️
+	Parley LeftCannon  5 booty 3 mutiny 8 RightCannon 
+		LeftBow
+			12 booty 8 gold 2 🏴‍☠️️
+		RightBow
+		
+	Parley LeftCannon  5 booty 8 RightCannon 
+		LeftBow
+			4 fact 🏴‍☠️️
+
+		RightBow
+
+	Parley LeftCannon  7 tiny 5 RightCannon 
+		LeftBow
+			2 booty 7 booty 6 gun 2 mutiny 18 gold 3 🏴‍☠️️
+		RightBow
+	Aye
+		LeftBow
+			6 booty 8 gold 4 booty 2 gun 3 mutiny 1 🏴‍☠️️
+		RightBow
+	Parley LeftCannon  7 mighty 5 RightCannon 
+		LeftBow
+			Parley LeftCannon  7 tiny 5 RightCannon 
+			LeftBow
+				7 booty 7 booty 6 gun 2 mutiny 18 gold 3 🏴‍☠️️
+			RightBow
+			Aye
+			LeftBow
+				3 booty 8 gold 4 booty 2 gun 3 mutiny 1 🏴‍☠️️
+			RightBow
+			2 booty 7 booty 6 gun 2 mutiny 18 gold 3 🏴‍☠️️
+		RightBow
+	Aye
+		LeftBow
+			6 booty 8 gold 4 booty 2 gun 3 mutiny 1 🏴‍☠️️
+		RightBow
+		
+	Parley LeftCannon  7 tiny 5 RightCannon 
+		LeftBow
+			2 booty 7 booty 6 gun 2 mutiny 18 gold 3 🏴‍☠️️
+		RightBow
+	ElseWise LeftCannon  2 mighty 1 RightCannon 
+		LeftBow
+			3 booty 4 gun 2 gold 2 🏴‍☠️️
+		RightBow 
+	Aye
+		LeftBow
+			6 booty 8 gold 4 booty 2 gun 3 mutiny 1 🏴‍☠️️
+		RightBow
+		
+	Shanty LeftCannon  2 : 6 RightCannon  LeftBow 4 booty 2 RightBow
+
+	Whale LeftCannon  0 mighty 5 RightCannon  LeftBow 4 booty 2 RightBow
+
+	Code_Book LeftCannon  2 RightCannon  LeftBow Pirate_Code 1 : 4 booty 2 🏴‍☠️️ Pirate_Code 2 : 3 booty 2 🏴‍☠️️ Default_Code : 5 fact 🏴‍☠️️ RightBow                                         
+	
+	📍️Black Perl   
+	
+	📌️ Jack Sparrow
+	Pirate Captain
+	📌️
+
+	crew sami : JackSparrow_i LeftCannon  RightCannon  LeftBow 🏴‍☠️️ RightBow 
+
+	
+RightBow

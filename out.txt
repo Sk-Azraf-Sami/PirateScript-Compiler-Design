@@ -1,0 +1,48 @@
+pirate_count is already declared
+pirate_name is already declared
+
+valid declaration of variable
+
+(pirate_var) Value of the variable: 8	
+
+(pirate_name) Value of the variable: 4	
+pirate_test not declared yet
+⚓️++ (increment operator): 116
+
+value of expression: 116
+⚓️-- (decrement operator): 99
+
+value of expression: 99
+!⚓️ (not operator): 0
+
+value of expression: 0
+
+value of expression: 13
+
+value of expression: 23
+
+condition value zero in Parley(if) block
+
+value of expression in Parley (if): 24
+
+value of expression in Aye (else): 13
+
+value of expression middle Aye (else): 10
+
+value of expression in first Parley (if): 15
+
+value of expression in ElseWise (Else_If): 7
+Shanty(for) loop statement
+Shanty(for) loop statement
+Shanty(for) loop statement
+Shanty(for) loop statement
+Whale(While) Loop: 0 1 2 3 4 5 
+value of the expression: 6
+
+Pirate_Code(Case) No : 2  and Result :  5
+Code_Book(SWITCH) and Pirate_Code(case).
+Single line comment
+Multiple_line_comment
+crew(function) is declared
+
+-------------Successful compilation-----------------
